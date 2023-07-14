@@ -1,2 +1,1 @@
-# sunnyside-agency-landing-page
-I used onclick to make the clickable hamburger bar, but when I increase the screen size while the hamburger bar is open, the navigation links don't turn into inline position, although, I tried to use style.display = "fixed". Also when I increase the display size, after clicking the close menu bar button, the inline menu bar becomes display: none, because of the onclick function. How to fix this?
+
