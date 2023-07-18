@@ -34,6 +34,7 @@ body {
 div.big-nav {
     background-color: rgb(101, 188, 249);
     background-image: url(./images/desktop/image-header.jpg);
+    background-position: center;
     background-size: cover;
     min-height: 100vh;
 }
@@ -177,11 +178,13 @@ div.grid4 a:hover {
 div.grid2 {
     background-image: url(./images/desktop/image-transform.jpg);
     background-size: cover;
+    background-position: center;
 }
 
 div.grid3 {
     background-image: url(./images/desktop/image-stand-out.jpg);
     background-size: cover;
+    background-position: center;
 }
 
 div.grid5 p.heading,
@@ -217,11 +220,13 @@ div.grid6 div {
 div.grid5 {
     background-image: url(./images/desktop/image-graphic-design.jpg);
     background-size: cover;
+    background-position: center;
 }
 
 div.grid6 {
     background-image: url(./images/desktop/image-photography.jpg);
     background-size: cover;
+    background-position: center;
 }
 
 /*TESTIMONIALS design*/
